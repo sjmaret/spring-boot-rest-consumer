@@ -1,4 +1,4 @@
-package com.spring.rest.domain;
+package com.spring.rest.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
